@@ -1,19 +1,19 @@
-# Contributing
+# Contribuindo
 
-## Welcome!
+## Seja bem-vindo!
 
-You are encouraged to contribute to this repository during the hacktoberfest event! 🎉
+Você é encorajado a contribuir com este repositório durante o evento da Hacktoberfest! 🎉
 
-## Follow these steps:
+## Siga estes passos:
 
-- Fork this repository on Github.
-- Clone the forked repository:
-  - `git clone https://github.com/YOUR_USERNAME/alexa-voice-commands.git`
-- Create another branch and enter it:
-  - `git branch new-branch`
-  - `git switch new-branch`
-- Make the changes and then:
+- Forke este repositório no Github.
+- Clone o repositório forkado:
+  - `git clone https://github.com/SEU_USERNAME/alexa-voice-commands.git`
+- Entre na pasta e crie uma nova branch (`nova-branch` é um nome de exemplo):
+  - `git branch nova-branch`
+  - `git switch nova-branch`
+- Faça as mudanças e então:
   - `git add .`
-  - `git commit -m "added a new command! 🎉"`
-  - `git push -u origin new-branch`
-- Open a Pull Request on Github.
+  - `git commit -m "add: new command 🎉"`
+  - `git push -u origin nova-branch`
+- Abra um Pull Request no Github.
