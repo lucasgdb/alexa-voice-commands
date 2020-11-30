@@ -29,9 +29,9 @@
 
 ## Descrição
 
-Variados comandos de voz para usar com a Alexa, IA da Amazon, em qualquer dispositivo Echo (Echo Dot, Echo, Echo Studio, entre outros).
+Variados comandos de voz para usar com a Alexa, IA da Amazon, em qualquer dispositivo Echo (Echo, Echo Dot, Echo Studio, Echo Show).
 
-Sinta-se livro pra contribuir com mais comandos! :)
+Sinta-se livre pra contribuir com mais comandos! :)
 
 ## Comandos
 
